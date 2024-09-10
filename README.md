@@ -1,4 +1,4 @@
-# FizzBuzz
+# Python FizzBuzz
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
@@ -64,3 +64,5 @@ Return:
 ## Implementation Not working
 
 However this function is not passing all it's tests.  Use the debugger to make the program pass the given tests.
+
+Tatiana Snook
